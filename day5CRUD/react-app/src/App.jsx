@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { Routes, Route } from "react-router";
-import Update from "./Components/Update";
-import View from "./Components/View";
-import Home from "./Components/Home";
+import Update from "./components/Update";
+import View from "./components/View";
+import Home from "./components/Home";
 
 const App = () => {
-  
+
 
  return(
    <Routes>
