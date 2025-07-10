@@ -1,0 +1,32 @@
+{
+  "Products": [
+    {
+      "id": "19",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "price": "59999"
+    },
+    {
+      "id": "20",
+      "name": "Furniture",
+      "slug": "furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "price": 2500
+    },
+    {
+      "id": "21",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "price": 5500
+    },
+    {
+      "id": "22",
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "price": 3500
+    }
+  ]
+}
