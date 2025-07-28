@@ -1,0 +1,132 @@
+{
+  "Products":[
+  {
+    "id": 34,
+    "name": "Clothes",
+    "slug": "clothes",
+    "image": "https://i.imgur.com/QkIa5tT.jpeg",
+    "creationAt": "2025-07-22T21:25:44.000Z",
+    "updatedAt": "2025-07-22T21:25:44.000Z"
+  },
+  {
+    "id": 35,
+    "name": "Electronics",
+    "slug": "electronics",
+    "image": "https://i.imgur.com/ZANVnHE.jpeg",
+    "creationAt": "2025-07-22T21:25:44.000Z",
+    "updatedAt": "2025-07-22T21:25:44.000Z"
+  },
+  {
+    "id": 36,
+    "name": "Furniture",
+    "slug": "furniture",
+    "image": "https://i.imgur.com/Qphac99.jpeg",
+    "creationAt": "2025-07-22T21:25:45.000Z",
+    "updatedAt": "2025-07-22T21:25:45.000Z"
+  },
+  {
+    "id": 37,
+    "name": "Shoes",
+    "slug": "shoes",
+    "image": "https://i.imgur.com/qNOjJje.jpeg",
+    "creationAt": "2025-07-22T21:25:45.000Z",
+    "updatedAt": "2025-07-22T21:25:45.000Z"
+  },
+  {
+    "id": 38,
+    "name": "Computer Equipments",
+    "slug": "computer-equipments",
+    "image": "https://i.imgur.com/BG8J0Fj.jpg",
+    "creationAt": "2025-07-22T21:25:46.000Z",
+    "updatedAt": "2025-07-23T11:05:25.000Z"
+  },
+  {
+    "id": 40,
+    "name": "Игры",
+    "slug": "",
+    "image": "https://i.imgur.com/ZANVnHE.jpeg",
+    "creationAt": "2025-07-22T23:36:43.000Z",
+    "updatedAt": "2025-07-22T23:37:25.000Z"
+  },
+  {
+    "id": 52,
+    "name": "Appliances",
+    "slug": "appliances",
+    "image": "www.google.com",
+    "creationAt": "2025-07-23T03:09:32.000Z",
+    "updatedAt": "2025-07-23T03:09:32.000Z"
+  },
+  {
+    "id": 67,
+    "name": "Home & Garden",
+    "slug": "home-garden",
+    "image": "https://picsum.photos/400/400?random=600",
+    "creationAt": "2025-07-23T06:17:32.000Z",
+    "updatedAt": "2025-07-23T06:17:32.000Z"
+  },
+  {
+    "id": 68,
+    "name": "Sports & Outdoors",
+    "slug": "sports-outdoors",
+    "image": "https://picsum.photos/400/400?random=700",
+    "creationAt": "2025-07-23T06:17:33.000Z",
+    "updatedAt": "2025-07-23T06:17:33.000Z"
+  },
+  {
+    "id": 69,
+    "name": "Books & Media",
+    "slug": "books-media",
+    "image": "https://picsum.photos/400/400?random=800",
+    "creationAt": "2025-07-23T06:17:34.000Z",
+    "updatedAt": "2025-07-23T06:17:34.000Z"
+  },
+  {
+    "id": 70,
+    "name": "Health & Beauty",
+    "slug": "health-beauty",
+    "image": "https://picsum.photos/400/400?random=900",
+    "creationAt": "2025-07-23T06:17:35.000Z",
+    "updatedAt": "2025-07-23T06:17:35.000Z"
+  },
+  {
+    "id": 71,
+    "name": "Automotive",
+    "slug": "automotive",
+    "image": "https://picsum.photos/400/400?random=1000",
+    "creationAt": "2025-07-23T06:17:36.000Z",
+    "updatedAt": "2025-07-23T06:17:36.000Z"
+  },
+  {
+    "id": 74,
+    "name": "Bestseller",
+    "slug": "bestseller",
+    "image": "https://pixabay.com/get/g65717a7c794ead078e4d2cba2958617e9aa16c6fd1173631368b16d636cbcf7196a24db9bb41160b88b19415ec227903_1280.png",
+    "creationAt": "2025-07-23T09:43:39.000Z",
+    "updatedAt": "2025-07-23T09:43:39.000Z"
+  },
+  {
+    "id": 75,
+    "name": "Grosery",
+    "slug": "grosery",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2025-07-23T11:05:24.000Z",
+    "updatedAt": "2025-07-23T11:05:24.000Z"
+  },
+  {
+    "id": 76,
+    "name": "Computer Category",
+    "slug": "computer-category",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2025-07-23T11:05:27.000Z",
+    "updatedAt": "2025-07-23T11:05:27.000Z"
+  },
+  {
+    "id": 77,
+    "name": "Reisekoffer",
+    "slug": "reisekoffer",
+    "image": "https://www.jollyroom.de/storage/CA12FAC24D3CE42EA12DBFA37390C92A5E3F864A43A3731D1621D3E4720CFBEA/fabfb951934c4b73952a5832634f28a7/259-450-0-jpg.Jpeg/media/977bff8a891341f582005e269d65d065/88473-1491-2736_1.jpeg",
+    "creationAt": "2025-07-23T11:20:41.000Z",
+    "updatedAt": "2025-07-23T11:20:41.000Z"
+  }
+]
+}
